@@ -12,8 +12,8 @@ namespace PassableDescents {
 
         int delay = 0;
         int delayMax = 10;
-        Layer currentLayer;
-        ModConfig Config;
+        Layer? currentLayer;
+        ModConfig Config = new();
 
         public override void Entry(IModHelper helper) {
             Config = helper.ReadConfig<ModConfig>();
