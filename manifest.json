@@ -3,7 +3,7 @@
   "Author": "rokugin",
   "Name": "Passable Descents",
   "UniqueID": "rokugin.passabledescents",
-  "Description": "Makes ladders and shafts passable.",
+  "Description": "Makes ladders and shafts in mines passable.",
   "Version": "2.1.0",
   "EntryDll": "PassableDescents.dll",
   "MinimumApiVersion": "4.0.0",
